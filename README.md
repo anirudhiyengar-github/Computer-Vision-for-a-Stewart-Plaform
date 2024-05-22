@@ -14,3 +14,4 @@ I enjoyed developing the Computer Vision subsystem for this project.
 
 #How to use the reposiory 
 You can either train the model from scrach with your own custom dataset or you cna use the pretrainde model and use transfer learning to implement the object detecion code that will give you the inila detection. The model is trained using a Rapberry Pi camera module V2. 
+![Detect 1](https://github.com/anirudhiyengar-github/Computer-Vision-for-a-Stewart-Plaform/assets/52692696/60ab2a4b-f839-41b2-996a-fc30d2050c03)
